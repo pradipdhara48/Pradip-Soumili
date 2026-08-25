@@ -39,7 +39,7 @@ export const wedding = {
   gallery: [
     { src: '/images/gallery-1.png', alt: 'Wedding rings resting on blush roses' },
     { src: '/images/gallery-2.png', alt: 'Romantic candlelit reception table setting' },
-    { src: '/images/gallery-3.jpg', alt: 'Couple dancing under warm string lights' },
+    { src: '/images/gallery-3.JPG', alt: 'Couple dancing under warm string lights' },
   ],
   driveNote:
     'Our photographer’s full gallery will be shared here after the celebration.',
