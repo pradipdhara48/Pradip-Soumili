@@ -23,7 +23,7 @@ export function About() {
           <Reveal className="grid grid-cols-2 gap-4">
             <div className="relative mt-10 aspect-[3/4] overflow-hidden rounded-lg shadow-lg">
               <Image
-                src="/images/about-1.Jpg"
+                src="/images/about-1.JPG"
                 alt="The e ing together"
                 fill
                 sizes="(max-width: 768px) 50vw, 25vw"
